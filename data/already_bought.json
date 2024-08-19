@@ -1,0 +1,16 @@
+{
+    "6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6": {
+        "amm": "Raydium",
+        "tokenmint": "6yjNqPzTSanBWSa6dxVEgTjePXBrZ2FoHLDQwYwEsyM6",
+        "pair_address": "3Cv7Z8KN21M6Ur6nTeKiKEPcjTuEAg87Ciu6cC3gRnw6",
+        "buyprice": "0.01",
+        "profit": "50"
+    },
+    "C9FTn7hQddPTmZQxvygBk2LVGwWriBvRGU4x2UEkpump": {
+        "amm": "Raydium",
+        "tokenmint": "C9FTn7hQddPTmZQxvygBk2LVGwWriBvRGU4x2UEkpump",
+        "pair_address": "7xRebz8794yN8c4vCganZkJSfoHV49r3L9WTHQTB3Rk2",
+        "buyprice": "0.01",
+        "profit": "50"
+    }
+}
